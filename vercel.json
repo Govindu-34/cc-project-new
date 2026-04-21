@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/expense_tracker_tablet_v2.html",
+      "headers": [
+        { "key": "Content-Type", "value": "text/html" }
+      ]
+    }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/expense_tracker_tablet_v2.html" }
+  ]
+}
